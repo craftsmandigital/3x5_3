@@ -9,3 +9,5 @@ The only file changed from original config is the file config.h
 ### Here is how to use this:
 - Delete .../qmk_firmware/keyboards/handwired/dactyl_manuform/3x5_3/config.h
 - Copy the file config.h to destination .../qmk_firmware/keyboards/handwired/dactyl_manuform/3x5_3
+
+Now you can compile your keyboard, and it wil work. No total dead keyboard.
